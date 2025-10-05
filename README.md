@@ -93,8 +93,9 @@ Built using **Python**, **Slack Bolt with Socket Mode**, and **OpenAI GPT**, thi
 
 **Note**: 
 - ⚠️ Ensure your Slack app has the following Bot Token Scopes:
-  - app_mentions:read, chat:write, im:write
-- Also subscribe to Bot Events: app_mention and message.im
+    - app_mentions:read, chat:write and im:write
+- Also subscribe to Bot Events:
+    - app_mention and message.im
 
 ## 💻 Usage
 
@@ -197,6 +198,7 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Deploy on cloud for 24/7 availability.
 
 - Add more AI features like summarizing PDFs, emails, and docs.
+
 
 
 
