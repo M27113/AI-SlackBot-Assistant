@@ -115,14 +115,13 @@ Built using **Python**, **Slack Bolt with Socket Mode**, and **OpenAI GPT**, thi
 
 1. Open a DM with the bot via **Apps → MyBot → Message**
 
-  ![DM](/demo/bot.png) 
-
 2. Type a message:
     ```bash
-    Hello AI!
+    Hi
 
     - The bot replies directly in the DM.
-  
+![DM](/demo/bot.png) 
+
 ---
 ## 🎬 Demo / Output
 
@@ -198,6 +197,7 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Deploy on cloud for 24/7 availability.
 
 - Add more AI features like summarizing PDFs, emails, and docs.
+
 
 
 
