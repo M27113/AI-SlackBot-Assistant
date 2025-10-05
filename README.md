@@ -160,6 +160,13 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 
 
 ### 🖥 Terminal Output
+- Run the bot locally using:
+    ```bash
+    python main.py
+
+- Your terminal output should look like this:
+  
+  ![TER](/demo/term.png) 
 
 ## 🧪 Test Queries
 
@@ -175,7 +182,7 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Screenshots for each test query are included in the `demo/` folder.
 ---
 
-## ✍️ Contributing
+## 📌 Contributing
 - Fork the repo, create a branch, implement features, and submit a pull request.  
 - Ensure all changes are tested in a Slack workspace.  
 - Add proper logging and error handling for new features.
@@ -191,5 +198,6 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Deploy on cloud for 24/7 availability.
 
 - Add more AI features like summarizing PDFs, emails, and docs.
+
 
 
