@@ -1,4 +1,4 @@
-# 🤖 AI-SlackBot-Assistant 🪄| Your Smart Workspace Bot
+# 🤖 AI-SlackBot-Assistant 🪄|
 ⚡ Boost Slack productivity with an AI bot that answers, summarizes, and plans your tasks.
 
 ## 📖 Project Overview
@@ -191,3 +191,4 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Deploy on cloud for 24/7 availability.
 
 - Add more AI features like summarizing PDFs, emails, and docs.
+
